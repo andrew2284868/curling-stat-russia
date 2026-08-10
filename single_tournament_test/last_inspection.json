@@ -1,0 +1,4547 @@
+{
+  "url": "https://curling.ru/kalendar/kubok-rossii-po-kerlingu-sredi-muzhskih-komand-2025-goda/",
+  "title": "Кубок России по кёрлингу среди мужских команд 2025 года",
+  "season": 2025,
+  "date_display": "",
+  "discipline": "classic_men",
+  "category": "cup",
+  "gender_age": "men",
+  "stats": {
+    "standings_count": 16,
+    "rosters_count": 16,
+    "matches_count": 60,
+    "pdf_count": 7
+  },
+  "standings": [
+    {
+      "place": 1,
+      "place_text": "1",
+      "team_name": "Санкт-Петербург-2",
+      "skip_name": "Красиков Олег",
+      "roster_players": [
+        "Варламов Сергей",
+        "Дрон Пётр",
+        "Киба Данил",
+        "Красиков Олег",
+        "Андреев Михаил"
+      ],
+      "coach": "Тимофеев А.В."
+    },
+    {
+      "place": 2,
+      "place_text": "2",
+      "team_name": "Московская область",
+      "skip_name": "Суровов Кирилл",
+      "roster_players": [
+        "Грецкий Дмитрий",
+        "Шишлов Илья",
+        "Куликов Алексей",
+        "Суровов Кирилл"
+      ],
+      "coach": "Гудин В.Н., Степанов Д.Н."
+    },
+    {
+      "place": 3,
+      "place_text": "3",
+      "team_name": "Краснодарский край",
+      "skip_name": "Глухов Сергей",
+      "roster_players": [
+        "Тузов Алексей",
+        "Еремин Александр",
+        "Миронов Дмитрий",
+        "Глухов Сергей",
+        "Полушвайко Александр"
+      ],
+      "coach": "Азимова Е.И., Жиделев Е.А."
+    },
+    {
+      "place": 4,
+      "place_text": "4",
+      "team_name": "Иркутская область",
+      "skip_name": "Лысаков Николай",
+      "roster_players": [
+        "Дудов Андрей",
+        "Мухорин Данила",
+        "Власенко Михаил",
+        "Лысаков Николай",
+        "Ракитин Иван"
+      ],
+      "coach": "Трухина А.В., Трухина Е.В."
+    },
+    {
+      "place": 5,
+      "place_text": "5",
+      "team_name": "Новосибирская область",
+      "skip_name": "Казачков Иван",
+      "roster_players": [
+        "Турченко Лев",
+        "Чен-Шан Руслан",
+        "Зазульских Даниил",
+        "Казачков Иван",
+        "Коновалов Андрей"
+      ],
+      "coach": "Шмаков А.С."
+    },
+    {
+      "place": 6,
+      "place_text": "6",
+      "team_name": "Красноярский край",
+      "skip_name": "Андреев Валентин",
+      "roster_players": [
+        "Денисенко Максим",
+        "Фанбер Юрий",
+        "Морозов Владимир",
+        "Андреев Валентин"
+      ],
+      "coach": "Андреев В.С."
+    },
+    {
+      "place": 7,
+      "place_text": "7",
+      "team_name": "Санкт-Петербург-1",
+      "skip_name": "Тимофеев Алексей",
+      "roster_players": [
+        "Горячев Даниил",
+        "Ражабов Артур",
+        "Крушельницкий Александр",
+        "Тимофеев Алексей",
+        "Климов Евгений"
+      ],
+      "coach": "Дрон П.Д."
+    },
+    {
+      "place": 8,
+      "place_text": "8",
+      "team_name": "Новосибирская область-2",
+      "skip_name": "Козич Константин",
+      "roster_players": [
+        "Кузнецов Ян",
+        "Кузнецов Давид",
+        "Сысоев Иван",
+        "Козич Константин"
+      ],
+      "coach": "Шмаков А.С."
+    },
+    {
+      "place": 9,
+      "place_text": "9",
+      "team_name": "Санкт-Петербург-УОР№2",
+      "skip_name": "Смородин Александр",
+      "roster_players": [
+        "Гнедов Кирилл",
+        "Митрофанов Максим",
+        "Доронин Герман",
+        "Смородин Александр",
+        "Литейкин Матвей"
+      ],
+      "coach": "Задворнов К.Ю."
+    },
+    {
+      "place": 10,
+      "place_text": "10",
+      "team_name": "Сборная Москвы",
+      "skip_name": "Насонов Тимофей",
+      "roster_players": [
+        "Лавров Григорий",
+        "Ильин Андрей",
+        "Али Артур",
+        "Насонов Тимофей",
+        "Калалб Антон"
+      ],
+      "coach": "Козырев А.С."
+    },
+    {
+      "place": 11,
+      "place_text": "11",
+      "team_name": "Москва-2",
+      "skip_name": "Кузнецов Никита",
+      "roster_players": [
+        "Бурдаков Александр",
+        "Демышев Максим",
+        "Киндюков Степан",
+        "Кузнецов Никита",
+        "Диев Арсений"
+      ],
+      "coach": "Кутузов Р.А."
+    },
+    {
+      "place": 12,
+      "place_text": "12",
+      "team_name": "Москва-3",
+      "skip_name": "Александров Егор",
+      "roster_players": [
+        "Буйлов Максим",
+        "Филоненко Семен",
+        "Прокофьев Андрей",
+        "Александров Егор",
+        "Ячменев Феодосий"
+      ],
+      "coach": "Козырев А.С., Калалб А.И."
+    },
+    {
+      "place": 13,
+      "place_text": "13",
+      "team_name": "Иркутская область-Комсомолл-2",
+      "skip_name": "Палагней Кирилл",
+      "roster_players": [
+        "Скрябиков Денис",
+        "Звонков Данил",
+        "Наумов Егор",
+        "Палагней Кирилл"
+      ],
+      "coach": "Трухина А.В., Десова В.Н."
+    },
+    {
+      "place": 14,
+      "place_text": "14",
+      "team_name": "Челябинская область",
+      "skip_name": "Алтухов Виктор",
+      "roster_players": [
+        "Мишин Антон",
+        "Кирпичников Матвей",
+        "Алипкин Владимир",
+        "Алтухов Виктор"
+      ],
+      "coach": "Пономарева О.В."
+    },
+    {
+      "place": 15,
+      "place_text": "15",
+      "team_name": "Москва-1",
+      "skip_name": "Возняк Даниил",
+      "roster_players": [
+        "Единов Даниил",
+        "Данилов Дмитрий",
+        "Казимиров Максим",
+        "Возняк Даниил",
+        "Лихачев Иван"
+      ],
+      "coach": "Кутузов Р.А."
+    },
+    {
+      "place": 16,
+      "place_text": "16",
+      "team_name": "Московская область-2",
+      "skip_name": "Козин Кирилл",
+      "roster_players": [
+        "Чаркин Семен",
+        "Герасимов Максим",
+        "Фонин Леонид",
+        "Козин Кирилл"
+      ],
+      "coach": "Степанов Д.Н., Суровов К.Д."
+    }
+  ],
+  "rosters": [
+    {
+      "team_name": "Санкт-Петербург-1",
+      "skip": "Тимофеев Алексей",
+      "coach": "Дрон П.Д.",
+      "players": [
+        {
+          "name": "Горячев Даниил",
+          "role": "player"
+        },
+        {
+          "name": "Ражабов Артур",
+          "role": "player"
+        },
+        {
+          "name": "Крушельницкий Александр",
+          "role": "player"
+        },
+        {
+          "name": "Тимофеев Алексей",
+          "role": "skip"
+        },
+        {
+          "name": "Климов Евгений",
+          "role": "player"
+        }
+      ]
+    },
+    {
+      "team_name": "Новосибирская область",
+      "skip": "Казачков Иван",
+      "coach": "Шмаков А.С.",
+      "players": [
+        {
+          "name": "Турченко Лев",
+          "role": "player"
+        },
+        {
+          "name": "Чен-Шан Руслан",
+          "role": "player"
+        },
+        {
+          "name": "Зазульских Даниил",
+          "role": "player"
+        },
+        {
+          "name": "Казачков Иван",
+          "role": "skip"
+        },
+        {
+          "name": "Коновалов Андрей",
+          "role": "player"
+        }
+      ]
+    },
+    {
+      "team_name": "Московская область",
+      "skip": "Суровов Кирилл",
+      "coach": "Гудин В.Н., Степанов Д.Н.",
+      "players": [
+        {
+          "name": "Грецкий Дмитрий",
+          "role": "player"
+        },
+        {
+          "name": "Шишлов Илья",
+          "role": "player"
+        },
+        {
+          "name": "Куликов Алексей",
+          "role": "player"
+        },
+        {
+          "name": "Суровов Кирилл",
+          "role": "skip"
+        }
+      ]
+    },
+    {
+      "team_name": "Москва-1",
+      "skip": "Возняк Даниил",
+      "coach": "Кутузов Р.А.",
+      "players": [
+        {
+          "name": "Единов Даниил",
+          "role": "player"
+        },
+        {
+          "name": "Данилов Дмитрий",
+          "role": "player"
+        },
+        {
+          "name": "Казимиров Максим",
+          "role": "player"
+        },
+        {
+          "name": "Возняк Даниил",
+          "role": "skip"
+        },
+        {
+          "name": "Лихачев Иван",
+          "role": "player"
+        }
+      ]
+    },
+    {
+      "team_name": "Челябинская область",
+      "skip": "Алтухов Виктор",
+      "coach": "Пономарева О.В.",
+      "players": [
+        {
+          "name": "Мишин Антон",
+          "role": "player"
+        },
+        {
+          "name": "Кирпичников Матвей",
+          "role": "player"
+        },
+        {
+          "name": "Алипкин Владимир",
+          "role": "player"
+        },
+        {
+          "name": "Алтухов Виктор",
+          "role": "skip"
+        }
+      ]
+    },
+    {
+      "team_name": "Санкт-Петербург-2",
+      "skip": "Красиков Олег",
+      "coach": "Тимофеев А.В.",
+      "players": [
+        {
+          "name": "Варламов Сергей",
+          "role": "player"
+        },
+        {
+          "name": "Дрон Пётр",
+          "role": "player"
+        },
+        {
+          "name": "Киба Данил",
+          "role": "player"
+        },
+        {
+          "name": "Красиков Олег",
+          "role": "skip"
+        },
+        {
+          "name": "Андреев Михаил",
+          "role": "player"
+        }
+      ]
+    },
+    {
+      "team_name": "Санкт-Петербург-УОР№2",
+      "skip": "Смородин Александр",
+      "coach": "Задворнов К.Ю.",
+      "players": [
+        {
+          "name": "Гнедов Кирилл",
+          "role": "player"
+        },
+        {
+          "name": "Митрофанов Максим",
+          "role": "player"
+        },
+        {
+          "name": "Доронин Герман",
+          "role": "player"
+        },
+        {
+          "name": "Смородин Александр",
+          "role": "skip"
+        },
+        {
+          "name": "Литейкин Матвей",
+          "role": "player"
+        }
+      ]
+    },
+    {
+      "team_name": "Москва-2",
+      "skip": "Кузнецов Никита",
+      "coach": "Кутузов Р.А.",
+      "players": [
+        {
+          "name": "Бурдаков Александр",
+          "role": "player"
+        },
+        {
+          "name": "Демышев Максим",
+          "role": "player"
+        },
+        {
+          "name": "Киндюков Степан",
+          "role": "player"
+        },
+        {
+          "name": "Кузнецов Никита",
+          "role": "skip"
+        },
+        {
+          "name": "Диев Арсений",
+          "role": "player"
+        }
+      ]
+    },
+    {
+      "team_name": "Краснодарский край",
+      "skip": "Глухов Сергей",
+      "coach": "Азимова Е.И., Жиделев Е.А.",
+      "players": [
+        {
+          "name": "Тузов Алексей",
+          "role": "player"
+        },
+        {
+          "name": "Еремин Александр",
+          "role": "player"
+        },
+        {
+          "name": "Миронов Дмитрий",
+          "role": "player"
+        },
+        {
+          "name": "Глухов Сергей",
+          "role": "skip"
+        },
+        {
+          "name": "Полушвайко Александр",
+          "role": "player"
+        }
+      ]
+    },
+    {
+      "team_name": "Сборная Москвы",
+      "skip": "Насонов Тимофей",
+      "coach": "Козырев А.С.",
+      "players": [
+        {
+          "name": "Лавров Григорий",
+          "role": "player"
+        },
+        {
+          "name": "Ильин Андрей",
+          "role": "player"
+        },
+        {
+          "name": "Али Артур",
+          "role": "player"
+        },
+        {
+          "name": "Насонов Тимофей",
+          "role": "skip"
+        },
+        {
+          "name": "Калалб Антон",
+          "role": "player"
+        }
+      ]
+    },
+    {
+      "team_name": "Иркутская область",
+      "skip": "Лысаков Николай",
+      "coach": "Трухина А.В., Трухина Е.В.",
+      "players": [
+        {
+          "name": "Дудов Андрей",
+          "role": "player"
+        },
+        {
+          "name": "Мухорин Данила",
+          "role": "player"
+        },
+        {
+          "name": "Власенко Михаил",
+          "role": "player"
+        },
+        {
+          "name": "Лысаков Николай",
+          "role": "skip"
+        },
+        {
+          "name": "Ракитин Иван",
+          "role": "player"
+        }
+      ]
+    },
+    {
+      "team_name": "Московская область-2",
+      "skip": "Козин Кирилл",
+      "coach": "Степанов Д.Н., Суровов К.Д.",
+      "players": [
+        {
+          "name": "Чаркин Семен",
+          "role": "player"
+        },
+        {
+          "name": "Герасимов Максим",
+          "role": "player"
+        },
+        {
+          "name": "Фонин Леонид",
+          "role": "player"
+        },
+        {
+          "name": "Козин Кирилл",
+          "role": "skip"
+        }
+      ]
+    },
+    {
+      "team_name": "Москва-3",
+      "skip": "Александров Егор",
+      "coach": "Козырев А.С., Калалб А.И.",
+      "players": [
+        {
+          "name": "Буйлов Максим",
+          "role": "player"
+        },
+        {
+          "name": "Филоненко Семен",
+          "role": "player"
+        },
+        {
+          "name": "Прокофьев Андрей",
+          "role": "player"
+        },
+        {
+          "name": "Александров Егор",
+          "role": "skip"
+        },
+        {
+          "name": "Ячменев Феодосий",
+          "role": "player"
+        }
+      ]
+    },
+    {
+      "team_name": "Красноярский край",
+      "skip": "Андреев Валентин",
+      "coach": "Андреев В.С.",
+      "players": [
+        {
+          "name": "Денисенко Максим",
+          "role": "player"
+        },
+        {
+          "name": "Фанбер Юрий",
+          "role": "player"
+        },
+        {
+          "name": "Морозов Владимир",
+          "role": "player"
+        },
+        {
+          "name": "Андреев Валентин",
+          "role": "skip"
+        }
+      ]
+    },
+    {
+      "team_name": "Новосибирская область-2",
+      "skip": "Козич Константин",
+      "coach": "Шмаков А.С.",
+      "players": [
+        {
+          "name": "Кузнецов Ян",
+          "role": "player"
+        },
+        {
+          "name": "Кузнецов Давид",
+          "role": "player"
+        },
+        {
+          "name": "Сысоев Иван",
+          "role": "player"
+        },
+        {
+          "name": "Козич Константин",
+          "role": "skip"
+        }
+      ]
+    },
+    {
+      "team_name": "Иркутская область-Комсомолл-2",
+      "skip": "Палагней Кирилл",
+      "coach": "Трухина А.В., Десова В.Н.",
+      "players": [
+        {
+          "name": "Скрябиков Денис",
+          "role": "player"
+        },
+        {
+          "name": "Звонков Данил",
+          "role": "player"
+        },
+        {
+          "name": "Наумов Егор",
+          "role": "player"
+        },
+        {
+          "name": "Палагней Кирилл",
+          "role": "skip"
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "match_identifier": "C",
+      "team1_name": "Московская область",
+      "team2_name": "Санкт-Петербург-2",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 3,
+      "team2_total_score": 5,
+      "winner_name": "Санкт-Петербург-2",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 3,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "матч за 3 место",
+      "stage_type": "bronze",
+      "team1_skip": "Суровов",
+      "team2_skip": "Красиков"
+    },
+    {
+      "match_identifier": "E",
+      "team1_name": "Краснодарский край",
+      "team2_name": "Иркутская область-Комсомолл 1",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 7,
+      "team2_total_score": 4,
+      "winner_name": "Краснодарский край",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 5,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "матч за 3 место",
+      "stage_type": "bronze",
+      "team1_skip": "Глухов",
+      "team2_skip": "Лысаков"
+    },
+    {
+      "match_identifier": "B",
+      "team1_name": "Иркутская область-Комсомолл 1",
+      "team2_name": "Санкт-Петербург-2",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 5,
+      "team2_total_score": 6,
+      "winner_name": "Санкт-Петербург-2",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 5,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 9,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "15 Тур. 6 декабря, 19:35",
+      "stage_type": "group",
+      "team1_skip": "Лысаков",
+      "team2_skip": "Красиков"
+    },
+    {
+      "match_identifier": "D",
+      "team1_name": "Московская область",
+      "team2_name": "Краснодарский край",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 4,
+      "team2_total_score": 3,
+      "winner_name": "Московская область",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 4,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 9,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "15 Тур. 6 декабря, 19:35",
+      "stage_type": "group",
+      "team1_skip": "Суровов",
+      "team2_skip": "Глухов"
+    },
+    {
+      "match_identifier": "B",
+      "team1_name": "Московская область-2",
+      "team2_name": "Новосибирская область-2",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 2,
+      "team2_total_score": 6,
+      "winner_name": "Новосибирская область-2",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 3,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 6,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "14 Тур. 6 декабря, 12:00",
+      "stage_type": "group",
+      "team1_skip": "Козин",
+      "team2_skip": "Козич"
+    },
+    {
+      "match_identifier": "C",
+      "team1_name": "Красноярский край",
+      "team2_name": "Краснодарский край",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 6,
+      "team2_total_score": 4,
+      "winner_name": "Красноярский край",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "14 Тур. 6 декабря, 12:00",
+      "stage_type": "group",
+      "team1_skip": "Андреев",
+      "team2_skip": "Глухов"
+    },
+    {
+      "match_identifier": "D",
+      "team1_name": "Иркутская область-Комсомолл 2",
+      "team2_name": "Сборная Москвы",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 2,
+      "team2_total_score": 7,
+      "winner_name": "Сборная Москвы",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "14 Тур. 6 декабря, 12:00",
+      "stage_type": "group",
+      "team1_skip": "Палагней",
+      "team2_skip": "Насонов"
+    },
+    {
+      "match_identifier": "E",
+      "team1_name": "Иркутская область-Комсомолл 1",
+      "team2_name": "Москва-3",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 6,
+      "team2_total_score": 4,
+      "winner_name": "Иркутская область-Комсомолл 1",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 2,
+          "team1_score": 3,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "14 Тур. 6 декабря, 12:00",
+      "stage_type": "group",
+      "team1_skip": "Лысаков",
+      "team2_skip": "Александров"
+    },
+    {
+      "match_identifier": "B",
+      "team1_name": "Москва-1",
+      "team2_name": "Санкт-Петербург-УОР№2",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 4,
+      "team2_total_score": 5,
+      "winner_name": "Санкт-Петербург-УОР№2",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "13 Тур. 6 декабря, 08:30",
+      "stage_type": "group",
+      "team1_skip": "Возняк",
+      "team2_skip": "Смородин"
+    },
+    {
+      "match_identifier": "C",
+      "team1_name": "Санкт-Петербург-2",
+      "team2_name": "Санкт-Петербург-1",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 5,
+      "team2_total_score": 6,
+      "winner_name": "Санкт-Петербург-1",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 3,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 3,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "13 Тур. 6 декабря, 08:30",
+      "stage_type": "group",
+      "team1_skip": "Красиков",
+      "team2_skip": "Тимофеев"
+    },
+    {
+      "match_identifier": "D",
+      "team1_name": "Москва-2",
+      "team2_name": "Новосибирская область",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 3,
+      "team2_total_score": 6,
+      "winner_name": "Новосибирская область",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "13 Тур. 6 декабря, 08:30",
+      "stage_type": "group",
+      "team1_skip": "Кузнецов",
+      "team2_skip": "Казачков"
+    },
+    {
+      "match_identifier": "E",
+      "team1_name": "Московская область",
+      "team2_name": "Челябинская область",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 3,
+      "team2_total_score": 5,
+      "winner_name": "Челябинская область",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 7,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "13 Тур. 6 декабря, 08:30",
+      "stage_type": "group",
+      "team1_skip": "Суровов",
+      "team2_skip": "Алтухов"
+    },
+    {
+      "match_identifier": "B",
+      "team1_name": "Сборная Москвы",
+      "team2_name": "Иркутская область-Комсомолл 1",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 2,
+      "team2_total_score": 7,
+      "winner_name": "Иркутская область-Комсомолл 1",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "12 Тур. 5 декабря, 19:35",
+      "stage_type": "group",
+      "team1_skip": "Насонов",
+      "team2_skip": "Лысаков"
+    },
+    {
+      "match_identifier": "C",
+      "team1_name": "Иркутская область-Комсомолл 2",
+      "team2_name": "Москва-3",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 4,
+      "team2_total_score": 5,
+      "winner_name": "Москва-3",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 3,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "12 Тур. 5 декабря, 19:35",
+      "stage_type": "group",
+      "team1_skip": "Палагней",
+      "team2_skip": "Александров"
+    },
+    {
+      "match_identifier": "D",
+      "team1_name": "Московская область-2",
+      "team2_name": "Краснодарский край",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 1,
+      "team2_total_score": 7,
+      "winner_name": "Краснодарский край",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 3,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "12 Тур. 5 декабря, 19:35",
+      "stage_type": "group",
+      "team1_skip": "Козин",
+      "team2_skip": "Глухов"
+    },
+    {
+      "match_identifier": "E",
+      "team1_name": "Красноярский край",
+      "team2_name": "Новосибирская область-2",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 8,
+      "team2_total_score": 5,
+      "winner_name": "Красноярский край",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 9,
+          "team1_score": 3,
+          "team2_score": 0,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "12 Тур. 5 декабря, 19:35",
+      "stage_type": "group",
+      "team1_skip": "Андреев",
+      "team2_skip": "Козич"
+    },
+    {
+      "match_identifier": "B",
+      "team1_name": "Новосибирская область",
+      "team2_name": "Московская область",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 3,
+      "team2_total_score": 8,
+      "winner_name": "Московская область",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 3,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 3,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "11 Тур. 5 декабря, 15:30",
+      "stage_type": "group",
+      "team1_skip": "Казачков",
+      "team2_skip": "Суровов"
+    },
+    {
+      "match_identifier": "C",
+      "team1_name": "Москва-2",
+      "team2_name": "Челябинская область",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 7,
+      "team2_total_score": 3,
+      "winner_name": "Москва-2",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 3,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "11 Тур. 5 декабря, 15:30",
+      "stage_type": "group",
+      "team1_skip": "Кузнецов",
+      "team2_skip": "Алтухов"
+    },
+    {
+      "match_identifier": "D",
+      "team1_name": "Москва-1",
+      "team2_name": "Санкт-Петербург-1",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 1,
+      "team2_total_score": 6,
+      "winner_name": "Санкт-Петербург-1",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 3,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 3,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 3,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "11 Тур. 5 декабря, 15:30",
+      "stage_type": "group",
+      "team1_skip": "Возняк",
+      "team2_skip": "Тимофеев"
+    },
+    {
+      "match_identifier": "E",
+      "team1_name": "Санкт-Петербург-2",
+      "team2_name": "Санкт-Петербург-УОР№2",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 5,
+      "team2_total_score": 2,
+      "winner_name": "Санкт-Петербург-2",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "11 Тур. 5 декабря, 15:30",
+      "stage_type": "group",
+      "team1_skip": "Красиков",
+      "team2_skip": "Смородин"
+    },
+    {
+      "match_identifier": "B",
+      "team1_name": "Новосибирская область 2",
+      "team2_name": "Краснодарский край",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 5,
+      "team2_total_score": 7,
+      "winner_name": "Краснодарский край",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 3,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "10 Тур. 5 декабря, 12:00",
+      "stage_type": "group",
+      "team1_skip": "Козич",
+      "team2_skip": "Глухов"
+    },
+    {
+      "match_identifier": "C",
+      "team1_name": "Московская область-2",
+      "team2_name": "Красноярский край",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 4,
+      "team2_total_score": 9,
+      "winner_name": "Красноярский край",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 3,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "10 Тур. 5 декабря, 12:00",
+      "stage_type": "group",
+      "team1_skip": "Козин",
+      "team2_skip": "Андреев"
+    },
+    {
+      "match_identifier": "D",
+      "team1_name": "Иркутская область-Комсомолл 1",
+      "team2_name": "Иркутская область-Комсомолл 2",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 11,
+      "team2_total_score": 0,
+      "winner_name": "Иркутская область-Комсомолл 1",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 3,
+          "team1_score": 4,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 3,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "10 Тур. 5 декабря, 12:00",
+      "stage_type": "group",
+      "team1_skip": "Лысаков",
+      "team2_skip": "Палагней"
+    },
+    {
+      "match_identifier": "E",
+      "team1_name": "Москва-3",
+      "team2_name": "Сборная Москвы",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 7,
+      "team2_total_score": 1,
+      "winner_name": "Москва-3",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "10 Тур. 5 декабря, 12:00",
+      "stage_type": "group",
+      "team1_skip": "Александров",
+      "team2_skip": "Насонов"
+    },
+    {
+      "match_identifier": "B",
+      "team1_name": "Санкт-Петербург-УОР№2",
+      "team2_name": "Санкт-Петербург-1",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 1,
+      "team2_total_score": 7,
+      "winner_name": "Санкт-Петербург-1",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "9 Тур. 5 декабря, 08:30",
+      "stage_type": "group",
+      "team1_skip": "Смородин",
+      "team2_skip": "Тимофеев"
+    },
+    {
+      "match_identifier": "C",
+      "team1_name": "Москва-1",
+      "team2_name": "Санкт-Петербург-2",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 4,
+      "team2_total_score": 5,
+      "winner_name": "Санкт-Петербург-2",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "9 Тур. 5 декабря, 08:30",
+      "stage_type": "group",
+      "team1_skip": "Возняк",
+      "team2_skip": "Красиков"
+    },
+    {
+      "match_identifier": "D",
+      "team1_name": "Московская область",
+      "team2_name": "Москва-2",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 7,
+      "team2_total_score": 3,
+      "winner_name": "Московская область",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 6,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 4,
+          "team2_score": 0,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "9 Тур. 5 декабря, 08:30",
+      "stage_type": "group",
+      "team1_skip": "Суровов",
+      "team2_skip": "Кузнецов"
+    },
+    {
+      "match_identifier": "E",
+      "team1_name": "Челябинская область",
+      "team2_name": "Новосибирская область",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 2,
+      "team2_total_score": 9,
+      "winner_name": "Новосибирская область",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 3,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 3,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "9 Тур. 5 декабря, 08:30",
+      "stage_type": "group",
+      "team1_skip": "Алтухов",
+      "team2_skip": "Казачков"
+    },
+    {
+      "match_identifier": "B",
+      "team1_name": "Иркутская область-Комсомолл 1",
+      "team2_name": "Красноярский край",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 10,
+      "team2_total_score": 3,
+      "winner_name": "Иркутская область-Комсомолл 1",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 4,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 4,
+          "team1_score": 5,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "8 Тур. 4 декабря, 19:35",
+      "stage_type": "group",
+      "team1_skip": "Лысаков",
+      "team2_skip": "Андреев"
+    },
+    {
+      "match_identifier": "C",
+      "team1_name": "Новосибирская область-2",
+      "team2_name": "Сборная Москвы",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 3,
+      "team2_total_score": 6,
+      "winner_name": "Сборная Москвы",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 4,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "8 Тур. 4 декабря, 19:35",
+      "stage_type": "group",
+      "team1_skip": "Козич",
+      "team2_skip": "Насонов"
+    },
+    {
+      "match_identifier": "D",
+      "team1_name": "Краснодарский край",
+      "team2_name": "Москва-3",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 6,
+      "team2_total_score": 2,
+      "winner_name": "Краснодарский край",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 2,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 3,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "8 Тур. 4 декабря, 19:35",
+      "stage_type": "group",
+      "team1_skip": "Глухов",
+      "team2_skip": "Александров"
+    },
+    {
+      "match_identifier": "E",
+      "team1_name": "Иркутская область-Комсомолл 2",
+      "team2_name": "Московская область-2",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 5,
+      "team2_total_score": 3,
+      "winner_name": "Иркутская область-Комсомолл 2",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "8 Тур. 4 декабря, 19:35",
+      "stage_type": "group",
+      "team1_skip": "Палагней",
+      "team2_skip": "Козин"
+    },
+    {
+      "match_identifier": "B",
+      "team1_name": "Московская область",
+      "team2_name": "Санкт-Петербург-2",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 4,
+      "team2_total_score": 7,
+      "winner_name": "Санкт-Петербург-2",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "7 Тур. 4 декабря, 15:30",
+      "stage_type": "group",
+      "team1_skip": "Суровов",
+      "team2_skip": "Красиков"
+    },
+    {
+      "match_identifier": "C",
+      "team1_name": "Санкт-Петербург-УОР№2",
+      "team2_name": "Новосибирская область",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 2,
+      "team2_total_score": 6,
+      "winner_name": "Новосибирская область",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "7 Тур. 4 декабря, 15:30",
+      "stage_type": "group",
+      "team1_skip": "Смородин",
+      "team2_skip": "Казачков"
+    },
+    {
+      "match_identifier": "D",
+      "team1_name": "Санкт-Петербург-1",
+      "team2_name": "Челябинская область",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 7,
+      "team2_total_score": 2,
+      "winner_name": "Санкт-Петербург-1",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 3,
+          "team1_score": 3,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 3,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "7 Тур. 4 декабря, 15:30",
+      "stage_type": "group",
+      "team1_skip": "Тимофеев",
+      "team2_skip": "Алтухов"
+    },
+    {
+      "match_identifier": "E",
+      "team1_name": "Москва-2",
+      "team2_name": "Москва-1",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 11,
+      "team2_total_score": 7,
+      "winner_name": "Москва-2",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 2,
+          "team1_score": 5,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 4,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 4,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "7 Тур. 4 декабря, 15:30",
+      "stage_type": "group",
+      "team1_skip": "Кузнецов",
+      "team2_skip": "Возняк"
+    },
+    {
+      "match_identifier": "B",
+      "team1_name": "Москва-3",
+      "team2_name": "Московская область-2",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 5,
+      "team2_total_score": 4,
+      "winner_name": "Москва-3",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 2,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 9,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "6 Тур. 4 декабря, 12:00",
+      "stage_type": "group",
+      "team1_skip": "Александров",
+      "team2_skip": "Козин"
+    },
+    {
+      "match_identifier": "C",
+      "team1_name": "Краснодарский край",
+      "team2_name": "Иркутская область-Комсомолл-2",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 9,
+      "team2_total_score": 4,
+      "winner_name": "Краснодарский край",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 3,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "6 Тур. 4 декабря, 12:00",
+      "stage_type": "group",
+      "team1_skip": "Глухов",
+      "team2_skip": "Палагней"
+    },
+    {
+      "match_identifier": "D",
+      "team1_name": "Новосибирская область-2",
+      "team2_name": "Иркутская область-Комсомолл-1",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 3,
+      "team2_total_score": 8,
+      "winner_name": "Иркутская область-Комсомолл-1",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 2,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 4,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "6 Тур. 4 декабря, 12:00",
+      "stage_type": "group",
+      "team1_skip": "Козич",
+      "team2_skip": "Лысаков"
+    },
+    {
+      "match_identifier": "E",
+      "team1_name": "Сборная Москвы",
+      "team2_name": "Красноярский край",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 4,
+      "team2_total_score": 6,
+      "winner_name": "Красноярский край",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 6,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 3,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "6 Тур. 4 декабря, 12:00",
+      "stage_type": "group",
+      "team1_skip": "Насонов",
+      "team2_skip": "Андреев"
+    },
+    {
+      "match_identifier": "B",
+      "team1_name": "Челябинская область",
+      "team2_name": "Москва-1",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 6,
+      "team2_total_score": 4,
+      "winner_name": "Челябинская область",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 6,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "5 Тур. 4 декабря, 08:30",
+      "stage_type": "group",
+      "team1_skip": "Алтухов",
+      "team2_skip": "Возняк"
+    },
+    {
+      "match_identifier": "C",
+      "team1_name": "Санкт-Петербург-1",
+      "team2_name": "Москва-2",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 6,
+      "team2_total_score": 7,
+      "winner_name": "Москва-2",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 4,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 9,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "5 Тур. 4 декабря, 08:30",
+      "stage_type": "group",
+      "team1_skip": "Тимофеев",
+      "team2_skip": "Кузнецов"
+    },
+    {
+      "match_identifier": "D",
+      "team1_name": "Санкт-Петербург-УОР№2",
+      "team2_name": "Московская область",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 4,
+      "team2_total_score": 8,
+      "winner_name": "Московская область",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 3,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "5 Тур. 4 декабря, 08:30",
+      "stage_type": "group",
+      "team1_skip": "Смородин",
+      "team2_skip": "Суровов"
+    },
+    {
+      "match_identifier": "E",
+      "team1_name": "Новосибирская область",
+      "team2_name": "Санкт-Петербург-2",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 5,
+      "team2_total_score": 8,
+      "winner_name": "Санкт-Петербург-2",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 2,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 5,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "5 Тур. 4 декабря, 08:30",
+      "stage_type": "group",
+      "team1_skip": "Казачков",
+      "team2_skip": "Красиков"
+    },
+    {
+      "match_identifier": "B",
+      "team1_name": "Красноярский край",
+      "team2_name": "Иркутская область-Комсомолл-2",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 8,
+      "team2_total_score": 1,
+      "winner_name": "Красноярский край",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 2,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 3,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "4 Тур. 3 декабря, 19:30",
+      "stage_type": "group",
+      "team1_skip": "Андреев",
+      "team2_skip": "Палагней"
+    },
+    {
+      "match_identifier": "C",
+      "team1_name": "Москва-3",
+      "team2_name": "Новосибирская область-2",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 4,
+      "team2_total_score": 7,
+      "winner_name": "Новосибирская область-2",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 5,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 3,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "4 Тур. 3 декабря, 19:30",
+      "stage_type": "group",
+      "team1_skip": "Александров",
+      "team2_skip": "Козич"
+    },
+    {
+      "match_identifier": "D",
+      "team1_name": "Сборная Москвы",
+      "team2_name": "Московская область-2",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 7,
+      "team2_total_score": 2,
+      "winner_name": "Сборная Москвы",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 3,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 4,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "4 Тур. 3 декабря, 19:30",
+      "stage_type": "group",
+      "team1_skip": "Насонов",
+      "team2_skip": "Козин"
+    },
+    {
+      "match_identifier": "E",
+      "team1_name": "Краснодарский край",
+      "team2_name": "Иркутская область-Комсомолл-1",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 4,
+      "team2_total_score": 2,
+      "winner_name": "Краснодарский край",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 2,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "4 Тур. 3 декабря, 19:30",
+      "stage_type": "group",
+      "team1_skip": "Глухов",
+      "team2_skip": "Лысаков"
+    },
+    {
+      "match_identifier": "B",
+      "team1_name": "Санкт-Петербург-2",
+      "team2_name": "Москва-2",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 6,
+      "team2_total_score": 4,
+      "winner_name": "Санкт-Петербург-2",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 2,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 3,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "3 Тур. 3 декабря, 15:30",
+      "stage_type": "group",
+      "team1_skip": "Красиков",
+      "team2_skip": "Кузнецов"
+    },
+    {
+      "match_identifier": "C",
+      "team1_name": "Челябинская область",
+      "team2_name": "Санкт-Петербург-УОР№2",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 3,
+      "team2_total_score": 5,
+      "winner_name": "Санкт-Петербург-УОР№2",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "3 Тур. 3 декабря, 15:30",
+      "stage_type": "group",
+      "team1_skip": "Алтухов",
+      "team2_skip": "Смородин"
+    },
+    {
+      "match_identifier": "D",
+      "team1_name": "Новосибирская область",
+      "team2_name": "Москва-1",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 7,
+      "team2_total_score": 4,
+      "winner_name": "Новосибирская область",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 3,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 3,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 3,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "3 Тур. 3 декабря, 15:30",
+      "stage_type": "group",
+      "team1_skip": "Казачков",
+      "team2_skip": "Возняк"
+    },
+    {
+      "match_identifier": "E",
+      "team1_name": "Санкт-Петербург-1",
+      "team2_name": "Московская область",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 5,
+      "team2_total_score": 6,
+      "winner_name": "Московская область",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 3,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "3 Тур. 3 декабря, 15:30",
+      "stage_type": "group",
+      "team1_skip": "Тимофеев",
+      "team2_skip": "Суровов"
+    },
+    {
+      "match_identifier": "B",
+      "team1_name": "Краснодарский край",
+      "team2_name": "Сборная Москвы",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 6,
+      "team2_total_score": 3,
+      "winner_name": "Краснодарский край",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 2,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "2 Тур. 3 декабря, 12:00",
+      "stage_type": "group",
+      "team1_skip": "Глухов",
+      "team2_skip": "Насонов"
+    },
+    {
+      "match_identifier": "C",
+      "team1_name": "Иркутская область-Комсомолл 1",
+      "team2_name": "Московская область-2",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 12,
+      "team2_total_score": 1,
+      "winner_name": "Иркутская область-Комсомолл 1",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 4,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 3,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 3,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "2 Тур. 3 декабря, 12:00",
+      "stage_type": "group",
+      "team1_skip": "Лысаков",
+      "team2_skip": "Козин"
+    },
+    {
+      "match_identifier": "D",
+      "team1_name": "Москва-3",
+      "team2_name": "Красноярский край",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 0,
+      "team2_total_score": 6,
+      "winner_name": "Красноярский край",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 3,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "2 Тур. 3 декабря, 12:00",
+      "stage_type": "group",
+      "team1_skip": "Александров",
+      "team2_skip": "Андреев"
+    },
+    {
+      "match_identifier": "E",
+      "team1_name": "Новосибирская область-2",
+      "team2_name": "Иркутская область-Комсомолл 2",
+      "team1_hammer_start": 1,
+      "team2_hammer_start": 0,
+      "team1_total_score": 7,
+      "team2_total_score": 5,
+      "winner_name": "Новосибирская область-2",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 5,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "2 Тур. 3 декабря, 12:00",
+      "stage_type": "group",
+      "team1_skip": "Козич",
+      "team2_skip": "Палагней"
+    },
+    {
+      "match_identifier": "B",
+      "team1_name": "Санкт-Петербург-1",
+      "team2_name": "Новосибирская область",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 3,
+      "team2_total_score": 5,
+      "winner_name": "Новосибирская область",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 4,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "1 Тур. 3 декабря, 08:30",
+      "stage_type": "group",
+      "team1_skip": "Тимофеев",
+      "team2_skip": "Казачков"
+    },
+    {
+      "match_identifier": "C",
+      "team1_name": "Московская область",
+      "team2_name": "Москва-1",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 9,
+      "team2_total_score": 2,
+      "winner_name": "Московская область",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 4,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "1 Тур. 3 декабря, 08:30",
+      "stage_type": "group",
+      "team1_skip": "Суровов",
+      "team2_skip": "Возняк"
+    },
+    {
+      "match_identifier": "D",
+      "team1_name": "Челябинская область",
+      "team2_name": "Санкт-Петербург-2",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 2,
+      "team2_total_score": 6,
+      "winner_name": "Санкт-Петербург-2",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 6,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 2,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        }
+      ],
+      "tour_name": "1 Тур. 3 декабря, 08:30",
+      "stage_type": "group",
+      "team1_skip": "Алтухов",
+      "team2_skip": "Красиков"
+    },
+    {
+      "match_identifier": "E",
+      "team1_name": "Санкт-Петербург-УОР№2",
+      "team2_name": "Москва-2",
+      "team1_hammer_start": 0,
+      "team2_hammer_start": 1,
+      "team1_total_score": 7,
+      "team2_total_score": 5,
+      "winner_name": "Санкт-Петербург-УОР№2",
+      "ends": [
+        {
+          "end_number": 1,
+          "team1_score": 0,
+          "team2_score": 0,
+          "is_blank": 1
+        },
+        {
+          "end_number": 2,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 3,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 4,
+          "team1_score": 2,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 5,
+          "team1_score": 0,
+          "team2_score": 3,
+          "is_blank": 0
+        },
+        {
+          "end_number": 6,
+          "team1_score": 3,
+          "team2_score": 0,
+          "is_blank": 0
+        },
+        {
+          "end_number": 7,
+          "team1_score": 0,
+          "team2_score": 1,
+          "is_blank": 0
+        },
+        {
+          "end_number": 8,
+          "team1_score": 1,
+          "team2_score": 0,
+          "is_blank": 0
+        }
+      ],
+      "tour_name": "1 Тур. 3 декабря, 08:30",
+      "stage_type": "group",
+      "team1_skip": "Смородин",
+      "team2_skip": "Кузнецов"
+    }
+  ],
+  "pdf_links": [
+    {
+      "title": "Итоговый протокол﻿",
+      "url": "https://curling.ru/data/1760983704/files/1765101810.pdf"
+    },
+    {
+      "title": "Расписание соревнований",
+      "url": "https://curling.ru/data/1760983704/files/1764674262.pdf"
+    },
+    {
+      "title": "Расписание официальных тренировок команд",
+      "url": "https://curling.ru/data/1760983704/files/1764140473.pdf"
+    },
+    {
+      "title": "Регламент проведения соревнований",
+      "url": "https://curling.ru/data/1760983704/files/1764665529.pdf"
+    },
+    {
+      "title": "Результаты тестовых постановочных бросков - 14 тур",
+      "url": "https://curling.ru/data/1760983704/files/1765013600.pdf"
+    },
+    {
+      "title": "Турнирная таблица - 14 тур",
+      "url": "https://curling.ru/data/1760983704/files/1765020536.pdf"
+    },
+    {
+      "title": "Схема плей-офф",
+      "url": "https://curling.ru/data/1760983704/files/1765100814.pdf"
+    }
+  ]
+}

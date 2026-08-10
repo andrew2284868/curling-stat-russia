@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CurlingStat — Официальные Рейтинги и Аналитика Федерации Кёрлинга России</title>
+  <meta name="description" content="Единая платформа аналитики и рейтингов Федерации кёрлинга России. Официальные рейтинговые очки ФКР, разделение по дисциплинам, статистика матчей, составы и скипы.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body class="dark-theme">
+  <div class="app-container">
+    
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <div class="logo-box">
+        <div class="logo-icon">🥌</div>
+        <div class="logo-text">
+          <h2>CurlingStat</h2>
+          <span class="season-badge">Сезон 2025/2026</span>
+        </div>
+      </div>
+
+      <nav class="nav-menu">
+        <div class="nav-section-title">Навигация</div>
+        <button class="nav-item active" data-view="rankings-view">
+          <span class="icon">🏆</span> Рейтинг игроков
+        </button>
+        <button class="nav-item" data-view="teams-view">
+          <span class="icon">🛡️</span> Рейтинг команд
+        </button>
+        <button class="nav-item" data-view="tournaments-view">
+          <span class="icon">📅</span> Все соревнования
+        </button>
+      </nav>
+
+      <div class="stats-summary-card">
+        <div class="summary-title">Статистика сезона</div>
+        <div class="summary-grid">
+          <div class="summary-metric">
+            <span class="val" id="stat-tournaments">21</span>
+            <span class="lbl">Турниров</span>
+          </div>
+          <div class="summary-metric">
+            <span class="val" id="stat-matches">1 356</span>
+            <span class="lbl">Матчей</span>
+          </div>
+          <div class="summary-metric">
+            <span class="val" id="stat-players">649</span>
+            <span class="lbl">Игроков</span>
+          </div>
+          <div class="summary-metric">
+            <span class="val" id="stat-ends">10.5k</span>
+            <span class="lbl">Эндов</span>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Main Content Area -->
+    <main class="main-content">
+      
+      <!-- Header -->
+      <header class="top-header">
+        <div class="header-left">
+          <h1 id="page-title">Рейтинг игроков</h1>
+          <p class="subtitle" id="page-subtitle">Официальные рейтинговые очки ФКР, раздельные зачеты дисциплин и рейтинг Elo</p>
+        </div>
+        <div class="header-right">
+          <div class="search-box">
+            <span class="search-icon">🔍</span>
+            <input type="text" id="global-search" placeholder="Поиск игрока, команды, скипа...">
+          </div>
+        </div>
+      </header>
+
+      <!-- Discipline Filter Bar -->
+      <div class="filter-bar" id="main-filter-bar">
+        <div class="discipline-tabs" id="discipline-tabs">
+          <button class="tab-btn active" data-discipline="classic_men">👨 Мужчины</button>
+          <button class="tab-btn" data-discipline="classic_women">👩 Женщины</button>
+          <button class="tab-btn" data-discipline="juniors_m">🎓 Юниоры U22</button>
+          <button class="tab-btn" data-discipline="juniors_w">🎀 Юниорки U22</button>
+          <button class="tab-btn" data-discipline="mixed_doubles">👫 Дабл-микст</button>
+          <button class="tab-btn" data-discipline="mixed">👥 Микст</button>
+          <button class="tab-btn" data-discipline="wheelchair">♿ ПОДА</button>
+          <button class="tab-btn" data-discipline="wheelchair_mixed_doubles">♿👫 ПОДА Пары</button>
+          <button class="tab-btn" data-discipline="">🌐 Все дисциплины</button>
+        </div>
+
+        <div class="secondary-filters">
+          <div class="select-wrapper">
+            <label>Сезон:</label>
+            <select id="season-filter">
+              <option value="2026" selected>Сезон 2025/2026 (01.08.2025 – 01.07.2026)</option>
+            </select>
+          </div>
+
+          <div class="select-wrapper" id="sort-select-wrapper">
+            <label>Сортировка:</label>
+            <select id="sort-filter">
+              <option value="fcf_points" selected>По очкам ФКР 🎖️ (Рейтинг)</option>
+              <option value="elo_rating">По рейтингу Elo ⚡</option>
+              <option value="gold_medals">По золотым медалям 🥇</option>
+              <option value="win_rate">По % побед</option>
+              <option value="matches_played">По сыгранным матчам</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <!-- Active Discipline Info Subtitle -->
+      <div class="active-discipline-indicator glass-card" id="discipline-indicator">
+        <div class="indicator-icon">🎯</div>
+        <div class="indicator-text">
+          <span class="indicator-label">Текущий зачет:</span>
+          <strong id="indicator-discipline-name">Мужчины (Классика)</strong>
+          <span class="indicator-desc" id="indicator-discipline-desc">— очки начисляются строго за мужские турниры (ЧР Группа А/Б, Кубок России, ВС)</span>
+        </div>
+      </div>
+
+      <!-- VIEW 1: Player Rankings -->
+      <section id="rankings-view" class="view-panel active">
+        
+        <!-- Scoring System Summary Info -->
+        <div class="scoring-system-banner glass-card">
+          <div class="banner-badge">🎖️ Официальная Система Рейтинга ФКР</div>
+          <div class="banner-text">
+            <strong>Шкала начисления:</strong>
+            <span class="tier-tag tier-1">ЧР Группа А: 2500 pts</span>
+            <span class="tier-tag tier-2">Первенство U22: 1200 pts</span>
+            <span class="tier-tag tier-3">Суперлига / Гр. Б / U19: 500 pts</span>
+            <span class="tier-tag tier-4">Кубок России: 300 pts</span>
+            <span class="tier-tag tier-5">Всероссийские / U17: 200 pts</span>
+            <span class="win-bonus-tag">+15 pts за каждую победу</span>
+          </div>
+        </div>
+
+        <div class="podium-section" id="player-podium"></div>
+        <div class="table-container glass-card">
+          <table class="data-table" id="rankings-table">
+            <thead>
+              <tr>
+                <th width="60">Ранг</th>
+                <th>Игрок</th>
+                <th>Очки ФКР 🎖️</th>
+                <th>Рейтинг Elo ⚡</th>
+                <th>Матчи</th>
+                <th>Победы</th>
+                <th>Винрейт %</th>
+                <th>Медали 🥇🥈🥉</th>
+                <th width="100">Действие</th>
+              </tr>
+            </thead>
+            <tbody id="rankings-tbody">
+              <!-- Loaded via JS -->
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- VIEW 2: Team Rankings -->
+      <section id="teams-view" class="view-panel">
+        <div class="podium-section" id="team-podium"></div>
+        <div class="table-container glass-card">
+          <table class="data-table" id="teams-table">
+            <thead>
+              <tr>
+                <th width="60">Ранг</th>
+                <th>Команда</th>
+                <th>Скип команды 👑</th>
+                <th>Очки ФКР 🎖️</th>
+                <th>Рейтинг Elo ⚡</th>
+                <th>Матчи</th>
+                <th>Победы</th>
+                <th>Винрейт %</th>
+                <th>Медали 🥇🥈🥉</th>
+              </tr>
+            </thead>
+            <tbody id="teams-tbody">
+              <!-- Loaded via JS -->
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- VIEW 3: Tournaments View -->
+      <section id="tournaments-view" class="view-panel">
+        <div class="tournaments-grid" id="tournaments-grid">
+          <!-- Loaded via JS -->
+        </div>
+      </section>
+
+    </main>
+  </div>
+
+  <!-- Tournament Details Modal -->
+  <div class="modal-overlay" id="tournament-modal">
+    <div class="modal-card glass-card">
+      <div class="modal-header">
+        <div>
+          <h2 id="modal-tournament-title">Название турнира</h2>
+          <div class="modal-meta" id="modal-tournament-meta">Метаданные турнира</div>
+        </div>
+        <button class="modal-close" id="modal-close-btn">&times;</button>
+      </div>
+
+      <div class="modal-tabs">
+        <button class="modal-tab-btn active" data-tab="tab-matches">🎮 Табло матчей</button>
+        <button class="modal-tab-btn" data-tab="tab-standings">🏆 Итоговые места</button>
+        <button class="modal-tab-btn" data-tab="tab-rosters">👥 Составы команд & Скипы</button>
+      </div>
+
+      <div class="modal-body">
+        <!-- Tab 1: Matches -->
+        <div class="modal-tab-panel active" id="tab-matches">
+          <div class="match-filter-bar">
+            <button class="pill-btn active" data-filter="all">Все игры</button>
+            <button class="pill-btn" data-filter="playoff">Плей-офф & Финалы</button>
+            <button class="pill-btn" data-filter="group">Групповой этап</button>
+          </div>
+          <div class="matches-list" id="modal-matches-list"></div>
+        </div>
+
+        <!-- Tab 2: Standings -->
+        <div class="modal-tab-panel" id="tab-standings">
+          <table class="data-table" id="modal-standings-table">
+            <thead>
+              <tr>
+                <th width="80">Место</th>
+                <th>Команда</th>
+                <th>Скип 👑</th>
+                <th>Состав</th>
+                <th>Тренеры</th>
+              </tr>
+            </thead>
+            <tbody id="modal-standings-tbody"></tbody>
+          </table>
+        </div>
+
+        <!-- Tab 3: Rosters -->
+        <div class="modal-tab-panel" id="tab-rosters">
+          <div class="rosters-grid" id="modal-rosters-grid"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Player Profile Modal -->
+  <div class="modal-overlay" id="player-modal">
+    <div class="modal-card glass-card player-modal-card">
+      <div class="modal-header">
+        <div class="player-header-info">
+          <div class="player-avatar" id="pm-avatar">👤</div>
+          <div>
+            <h2 id="pm-name">Имя Игрока</h2>
+            <div class="pm-meta" id="pm-meta">Мужчины • Санкт-Петербург</div>
+          </div>
+        </div>
+        <button class="modal-close" id="player-modal-close-btn">&times;</button>
+      </div>
+
+      <div class="modal-body">
+        
+        <!-- Isolated Discipline Points Breakdown Card -->
+        <div class="discipline-breakdown-card glass-card">
+          <div class="card-section-title">🎖️ Очки ФКР по категориям (Раздельный зачет)</div>
+          <div class="discipline-chips-grid" id="pm-discipline-breakdown">
+            <!-- Rendered via JS -->
+          </div>
+        </div>
+
+        <div class="player-stats-grid">
+          <div class="stat-box">
+            <div class="stat-val" id="pm-fcf-points">0.0</div>
+            <div class="stat-lbl">Всего очков ФКР</div>
+          </div>
+          <div class="stat-box">
+            <div class="stat-val highlight" id="pm-rating">1500</div>
+            <div class="stat-lbl">Рейтинг Elo</div>
+          </div>
+          <div class="stat-box">
+            <div class="stat-val" id="pm-winrate">0%</div>
+            <div class="stat-lbl">Винрейт (W-L)</div>
+          </div>
+          <div class="stat-box">
+            <div class="stat-val" id="pm-medals">🥇 0 🥈 0 🥉 0</div>
+            <div class="stat-lbl">Завоеванные медали</div>
+          </div>
+        </div>
+
+        <h3 class="section-subtitle">Сыгранные турниры сезона</h3>
+        <div class="player-tournaments-list" id="pm-tournaments-list">
+          <!-- Loaded via JS -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="/js/app.js"></script>
+</body>
+</html>
